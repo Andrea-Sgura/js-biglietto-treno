@@ -14,6 +14,7 @@ Buon lavoro!
 2 - Permetto all'utente di inserire il numero di chilometri che vuole percorrere.
 3 - Permetto all'utente di inserire la propria età.
 4 - Applico gli sconti in base all'età
+5 - Calcolo il prezzo finale del biglietto
 
 
 

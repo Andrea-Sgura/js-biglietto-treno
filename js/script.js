@@ -22,4 +22,6 @@ else{
     sconto = 0;
 }
 
+//5 - Calcolo del prezzo finale del biglietto
+let finalPrice = priceTicket * (etaUtente - sconto)
 
