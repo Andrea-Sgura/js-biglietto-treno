@@ -10,3 +10,12 @@ Numero di push minimo: 6
 Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
 Buon lavoro!
 
+1 - definisco il prezzo del biglietto in base km (0.21 € al km)
+2 - Permetto all'utente di inserire il numero di chilometri che vuole percorrere.
+3 - Permetto all'utente di inserire la propria età.
+4 - Applico gli sconti in base all'età
+
+
+
+
+
