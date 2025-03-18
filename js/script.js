@@ -25,3 +25,7 @@ else{
 //5 - Calcolo del prezzo finale del biglietto
 let finalPrice = priceTicket * (etaUtente - sconto)
 
+//6 - Output in console
+console.log(`Il prezzo del biglietto è: ${finalPrice}`)
+alert(`Il prezzo finale del biglietto è: ${finalPrice}`)
+
